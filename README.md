@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vincent-Baret-974)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vincent-Baret-974&theme=react)](https://git.io/streak-stats)
 
 <!--
 **Vincent-Baret-974/Vincent-Baret-974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
