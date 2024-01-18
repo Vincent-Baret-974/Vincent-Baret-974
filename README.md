@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vincent-Baret-974&theme=react)](https://git.io/streak-stats)
-
 My name is Vincent and I'm a **mobile application developer** 📱 from Reunion Island 🇷🇪 
 
 I'm passionate about creating innovative and user-friendly apps that make people's lives easier 🌱 
